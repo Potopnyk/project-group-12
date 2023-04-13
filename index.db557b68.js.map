@@ -1,1 +1,0 @@
-{"mappings":"AACEA,QAAQC,IAAI","sources":["src/js/unsplasu-api.js"],"sourcesContent":["export default function unsplashAPI() {\n  console.log('я работать');\n}\n"],"names":["console","log"],"version":3,"file":"index.db557b68.js.map"}
